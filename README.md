@@ -20,6 +20,3 @@ For subsampled OLS, the comparison results are obtained using:
 - `solvers_lr_bias.py`
 
 
-
-### Notes
-Author information is omitted for double-blind review.
